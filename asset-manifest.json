@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6caa960d.chunk.css",
+    "main.js": "/static/js/main.c1e01ea7.chunk.js",
+    "main.js.map": "/static/js/main.c1e01ea7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.13caf74f.chunk.js": "/static/js/2.13caf74f.chunk.js",
+    "static/js/2.13caf74f.chunk.js.map": "/static/js/2.13caf74f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fac29c1fb353f78975d168309893f61a.js": "/precache-manifest.fac29c1fb353f78975d168309893f61a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6caa960d.chunk.css.map": "/static/css/main.6caa960d.chunk.css.map",
+    "static/media/001-emoji.svg": "/static/media/001-emoji.1241b82b.svg",
+    "static/media/002-emoji-1.svg": "/static/media/002-emoji-1.a8b7f5f6.svg",
+    "static/media/003-emoji-2.svg": "/static/media/003-emoji-2.d310fc7a.svg",
+    "static/media/004-sad.svg": "/static/media/004-sad.acfd2d8c.svg",
+    "static/media/005-emoji-3.svg": "/static/media/005-emoji-3.b4a99b89.svg",
+    "static/media/006-emoji-4.svg": "/static/media/006-emoji-4.5cf827db.svg",
+    "static/media/007-emoji-5.svg": "/static/media/007-emoji-5.bce964bf.svg",
+    "static/media/008-emoji-6.svg": "/static/media/008-emoji-6.4cea71af.svg",
+    "static/media/dislike-thumb.svg": "/static/media/dislike-thumb.45045e34.svg",
+    "static/media/like.svg": "/static/media/like.9d0356f6.svg"
+  }
+}
